@@ -116,9 +116,7 @@ A dedicated NAT Network was created in VirtualBox.
 - **IPv4 Prefix:** 10.0.0.0/24
 - **DHCP:** Enabled
 - **IPv6:** Disabled
-
-![](<img width="960" height="662" alt="image" src="https://github.com/user-attachments/assets/a4e26925-bb1f-42db-b12c-abc74097cccf" />
-)
+<img width="1920" height="1012" alt="kali attack box  Running  - Oracle VirtualBox_2026-10-30_221434_0660" src="https://github.com/user-attachments/assets/655b04bb-480e-49f8-afda-6a50e231f80d" />
 
 A **NAT Network** was selected because multiple virtual machines connected to the same NAT Network can communicate with one another while also having outbound network connectivity. This will allow future attacker and target VMs to communicate within the lab.
 
@@ -135,7 +133,10 @@ Attached to: NAT Network
 Network:     NatNetwork
 Adapter Type: Intel PRO/1000 MT Desktop
 ```
-![]([3-screenshot-kali-linux.png](https://github.com/roshangiriatwork-hash/networkwalks-Cybersecurity-Int-B084M-week-1-lab-setup-/blob/main/kali%20attack%20box%20[Running]%20-%20Oracle%20VirtualBox_2026-10-30_221314_7668.png))
+<img width="1920" height="1012" alt="kali attack box  Running  - Oracle VirtualBox_2026-10-30_221314_7668" src="https://github.com/user-attachments/assets/b02488e1-5ba8-4303-b78a-e00707ffb520" />
+
+
+
 A shared folder was also configured for transferring required files between the host operating system and the Kali VM.
 ---
 
@@ -154,7 +155,7 @@ DNS: 8.8.8.8
 
 A consistent IP address makes it easier to document the lab and reference the Kali machine in future exercises.
 
-![]([4-screenshot-kali-network-settings.png](https://github.com/roshangiriatwork-hash/networkwalks-Cybersecurity-Int-B084M-week-1-lab-setup-/blob/main/kali%20attack%20box%20[Running]%20-%20Oracle%20VirtualBox_2026-10-30_221434_0660.png))
+<img width="960" height="662" alt="Oracle VirtualBox Manager_2026-10-30_221134_7791" src="https://github.com/user-attachments/assets/2e65ac43-ebdc-4fc6-a3fc-57b5fde88102" />
 
 ---
 
